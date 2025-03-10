@@ -1,7 +1,7 @@
 const settings = {
   packname: 'Queen Oshii',
   author: '',
-  botName: "Knight Bot",
+  botName: "Queen Oshii",
   botOwner: 'Oshadi Rajapaksha', // Your name
   ownerNumber: '94759892523', //Your number
   giphyApiKey: 'qnl7ssQChTdPjsKta2Ax2LMaGXz303tq',
